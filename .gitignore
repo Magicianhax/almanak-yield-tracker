@@ -39,3 +39,4 @@ test_*.js
 # Local development
 demo.html
 
+.vercel
