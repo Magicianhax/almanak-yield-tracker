@@ -1,0 +1,34 @@
+{
+  "name": "autonomous-liquidity-vault-tracker",
+  "version": "1.0.0",
+  "description": "Track your balance and calculate your yield earnings across AUTONOMOUS LIQUIDITY USD and PLUS vaults",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000",
+    "build": "echo 'Static site - no build step required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "defi",
+    "yield-farming",
+    "ethereum",
+    "autonomous-liquidity",
+    "vault-tracker",
+    "crypto",
+    "blockchain"
+  ],
+  "author": "Almanak Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Magicianhax/almanak-yield-tracker.git"
+  },
+  "homepage": "https://almanak-yield-tracker.vercel.app",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
+

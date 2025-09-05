@@ -1,0 +1,178 @@
+[
+    {
+        "timestamp": 1755705155,
+        "date": "2025-08-20T15:52:35.000Z",
+        "totalAssets": 900000000,
+        "totalSupply": 900000000000000000000,
+        "pricePerShare": 1,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755714179,
+        "date": "2025-08-20T18:22:59.000Z",
+        "totalAssets": 895010724,
+        "totalSupply": 895001337985969000000,
+        "pricePerShare": 1.0000104871508373,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1755719231,
+        "date": "2025-08-20T19:47:11.000Z",
+        "totalAssets": 905027684,
+        "totalSupply": 905003000192280600000,
+        "pricePerShare": 1.0000272748352372,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755776711,
+        "date": "2025-08-21T11:45:11.000Z",
+        "totalAssets": 899959128,
+        "totalSupply": 899907727922248000000,
+        "pricePerShare": 1.0000571170534014,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1755778175,
+        "date": "2025-08-21T12:09:35.000Z",
+        "totalAssets": 905182729,
+        "totalSupply": 905109780656944300000,
+        "pricePerShare": 1.0000805961272485,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755808415,
+        "date": "2025-08-21T20:33:35.000Z",
+        "totalAssets": 466593098054,
+        "totalSupply": 4.664855532716295e+23,
+        "pricePerShare": 1.0002305425786848,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755883655,
+        "date": "2025-08-22T17:27:35.000Z",
+        "totalAssets": 1288061097242,
+        "totalSupply": 1.287673356633283e+24,
+        "pricePerShare": 1.0003011172101368,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755883655,
+        "date": "2025-08-22T17:27:35.000Z",
+        "totalAssets": 1288051196918,
+        "totalSupply": 1.2876634592890423e+24,
+        "pricePerShare": 1.0003011172105263,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1755967463,
+        "date": "2025-08-23T16:44:23.000Z",
+        "totalAssets": 2188771432182,
+        "totalSupply": 2.186895164092019e+24,
+        "pricePerShare": 1.0008579597782228,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1755967463,
+        "date": "2025-08-23T16:44:23.000Z",
+        "totalAssets": 2188570319990,
+        "totalSupply": 2.186694224297332e+24,
+        "pricePerShare": 1.0008579597786567,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1756141919,
+        "date": "2025-08-25T17:11:59.000Z",
+        "totalAssets": 3267603837324,
+        "totalSupply": 3.2646787201357715e+24,
+        "pricePerShare": 1.000895989296033,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1756141919,
+        "date": "2025-08-25T17:11:59.000Z",
+        "totalAssets": 3256875710451,
+        "totalSupply": 3.2539601969443054e+24,
+        "pricePerShare": 1.0008959892961913,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1756307699,
+        "date": "2025-08-27T15:14:59.000Z",
+        "totalAssets": 4122231294780,
+        "totalSupply": 4.1183045427072216e+24,
+        "pricePerShare": 1.0009534875413069,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1756307699,
+        "date": "2025-08-27T15:14:59.000Z",
+        "totalAssets": 4081222609132,
+        "totalSupply": 4.077334921082342e+24,
+        "pricePerShare": 1.0009534875414712,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1756478015,
+        "date": "2025-08-29T14:33:35.000Z",
+        "totalAssets": 4766987746390,
+        "totalSupply": 4.761157809335279e+24,
+        "pricePerShare": 1.0012244788532927,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1756478015,
+        "date": "2025-08-29T14:33:35.000Z",
+        "totalAssets": 4736563404378,
+        "totalSupply": 4.7307706757250096e+24,
+        "pricePerShare": 1.0012244788534592,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1756648235,
+        "date": "2025-08-31T13:50:35.000Z",
+        "totalAssets": 5004714367274,
+        "totalSupply": 4.995804202576476e+24,
+        "pricePerShare": 1.0017835296052893,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1756648235,
+        "date": "2025-08-31T13:50:35.000Z",
+        "totalAssets": 4997515115777,
+        "totalSupply": 4.988617768296864e+24,
+        "pricePerShare": 1.001783529605471,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1756841015,
+        "date": "2025-09-02T19:23:35.000Z",
+        "totalAssets": 5027408717647,
+        "totalSupply": 5.01705936281858e+24,
+        "pricePerShare": 1.0020628328429038,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1756841015,
+        "date": "2025-09-02T19:23:35.000Z",
+        "totalAssets": 4995484934096,
+        "totalSupply": 4.985201297131554e+24,
+        "pricePerShare": 1.0020628328429513,
+        "type": "redeem"
+    },
+    {
+        "timestamp": 1757021171,
+        "date": "2025-09-04T21:26:11.000Z",
+        "totalAssets": 5008751193069,
+        "totalSupply": 4.995526958081748e+24,
+        "pricePerShare": 1.002647215218378,
+        "type": "deposit"
+    },
+    {
+        "timestamp": 1757021171,
+        "date": "2025-09-04T21:26:11.000Z",
+        "totalAssets": 4946028559056,
+        "totalSupply": 4.932969925995942e+24,
+        "pricePerShare": 1.0026472152184105,
+        "type": "redeem"
+    }
+]
