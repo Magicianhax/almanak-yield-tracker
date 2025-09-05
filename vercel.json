@@ -1,19 +1,4 @@
 {
-  "version": 2,
-  "name": "autonomous-liquidity-vault-tracker",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "functions": {},
   "headers": [
     {
       "source": "/(.*)",
